@@ -14,3 +14,12 @@ I have exposed the port 22 in the Dockerfile. You can use the below command to r
 <pre>
 $ docker run -d -p 2222:22 arvindr226/alpine-ssh
 </pre>
+
+To connect the docker container via ssh.
+
+<pre>
+ssh root@localhost -p 2222
+</pre>
+Use Password: <b> root </b>
+
+<img src="https://preview.ibb.co/h1j2bQ/alpine_ssh.gif" alt="alpine_ssh" border="0">
