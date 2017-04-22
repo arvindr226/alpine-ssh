@@ -22,4 +22,4 @@ ssh root@localhost -p 2222
 </pre>
 Use Password: <b> root </b>
 
-<img src="https://preview.ibb.co/h1j2bQ/alpine_ssh.gif" alt="alpine_ssh" border="0">
+<img src="https://ibb.co/cjNYi5" alt="alpine_ssh" border="0">
