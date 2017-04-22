@@ -22,4 +22,4 @@ ssh root@localhost -p 2222
 </pre>
 Use Password: <b> root </b>
 
-<iframe src="//giphy.com/embed/3o7buaZCmo40ZzIQ00" width="480" height="260.9059233449477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://gotechnies.com">via Gotechnies</a></p>
+<img src="https://media.giphy.com/media/3o7buaZCmo40ZzIQ00/giphy.gif" width="480" height="260.9059233449477"><p><a href="https://gotechnies.com">via Gotechnies</a></p>
