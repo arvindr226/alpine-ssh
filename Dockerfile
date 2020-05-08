@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.10
 MAINTAINER Arvind Rawat <arvindr226@gmail.com>
 
 RUN apk --update add --no-cache openssh bash \
