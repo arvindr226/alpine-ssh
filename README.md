@@ -1,4 +1,5 @@
 # alpine-ssh
+<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/arvindr226/alpine-ssh?style=plastic">
 
 A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!
 
