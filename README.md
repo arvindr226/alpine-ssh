@@ -1,4 +1,6 @@
 # alpine-ssh
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farvindr226%2Falpine-ssh.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farvindr226%2Falpine-ssh?ref=badge_shield)
+
 <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/arvindr226/alpine-ssh?style=plastic">
 
 A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!
@@ -28,3 +30,7 @@ ssh root@localhost -p 2222
 Use Password: <b> password </b>
 
 <img src="https://media.giphy.com/media/3o7buaZCmo40ZzIQ00/giphy.gif" width="480" height="260.9059233449477"><p><a href="https://gotechnies.net">via Gotechnies</a></p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farvindr226%2Falpine-ssh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farvindr226%2Falpine-ssh?ref=badge_large)
