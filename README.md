@@ -11,7 +11,7 @@ The above Dockerfile has root enabled in the ssh server as well as run ssh on th
 container creation.
 # How to build this Dockerfile.
 <pre>
-$ docker build --build-arg PASSWORD=passowrd -t arvindr226/alpine-ssh -f Dockerfile .
+$ docker build --build-arg PASSWORD=passowrd -t ghcr.io/arvindr226/alpine-ssh:master -f Dockerfile .
 </pre>
 
 # How to run the docker container with ssh ?
@@ -19,7 +19,7 @@ $ docker build --build-arg PASSWORD=passowrd -t arvindr226/alpine-ssh -f Dockerf
 I have exposed the port 22 in the Dockerfile. You can use the below command to run the docker container.
 
 <pre>
-$ docker run -d -p 2222:22 arvindr226/alpine-ssh
+$ docker run -d -p 2222:22 ghcr.io/arvindr226/alpine-ssh:master
 </pre>
 
 To connect the docker container via ssh.
