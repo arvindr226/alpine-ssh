@@ -7,6 +7,7 @@ A minimal Docker image based on Alpine Linux with a complete package index and o
 
 I have prepared this Dockerfile to enable SSH on the alpine docker container.
 That is completely working good. 
+
 The above Dockerfile has root enabled in the ssh server as well as run ssh on the time of docker 
 container creation.
 # How to build this Dockerfile.
