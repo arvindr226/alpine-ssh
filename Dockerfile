@@ -1,7 +1,7 @@
 FROM alpine:3.5
 MAINTAINER Arvind Rawat <arvindr226@gmail.com>
 # Arguement for Password
-ARG PASSWORD
+ARG PASSWORD=password
 # Installing the openssh and bash package, removing the apk cache
 RUN apk --update add --no-cache openssh bash \
   && sed -i s/#PermitRootLogin.*/PermitRootLogin\ yes/ /etc/ssh/sshd_config \
