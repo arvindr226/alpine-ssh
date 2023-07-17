@@ -12,7 +12,7 @@ The above Dockerfile has root enabled in the ssh server as well as run ssh on th
 container creation.
 # How to build this Dockerfile.
 <pre>
-$ docker build --build-arg PASSWORD=passowrd -t ghcr.io/arvindr226/alpine-ssh:master -f Dockerfile .
+$ docker build -t ghcr.io/arvindr226/alpine-ssh:master -f Dockerfile .
 </pre>
 
 # How to run the docker container with ssh ?
